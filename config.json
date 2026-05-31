@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingcender",
+        "uuid": 9430610,
+        "checksum": "9v5xx"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
